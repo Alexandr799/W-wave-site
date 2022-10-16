@@ -1,0 +1,25 @@
+p, h1, h2, h3, h4, h5, ul, li {
+    margin:0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    background-color: inherit;
+}
+
+a {
+    text-decoration: none;
+    color:inherit
+}
+
+label {
+    cursor: pointer;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
